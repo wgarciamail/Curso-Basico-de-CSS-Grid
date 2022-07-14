@@ -1,0 +1,21 @@
+.contenedor {
+    background-color: #fff1ff;
+    border: 5px solid #e1bee7;
+    width: 600px;
+    height: 600px;
+
+    display: grid;
+    grid-template: 150px 150px / 150px 150px;
+    justify-items: end;
+    align-items: end;
+    justify-content: center;
+    align-content: center;
+    gap: 30px;
+}
+
+.item{
+    background-color: aquamarine;
+    border: 1px solid blueviolet;
+    width: 30px;
+    height: 50px;
+}
