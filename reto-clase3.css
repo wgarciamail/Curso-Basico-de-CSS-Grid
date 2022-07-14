@@ -1,0 +1,33 @@
+.contenedor{
+    display: grid;
+    grid-template-rows: 150px 150px 150px;
+    grid-auto-columns: 150px;
+    grid-auto-flow: column;
+    gap: 20px;
+}
+
+.item-1, .item-4{
+   /*  width: 150px;
+    height: 150px; */
+    background-color: greenyellow;
+    text-align: end;
+    font-size: 24px;
+    font-weight: bolder;
+}
+.item-2, .item-5{
+    /*  width: 150px;
+     height: 150px; */
+     background-color: lightgreen;
+     text-align: end;
+     font-size: 24px;
+     font-weight: bolder;
+ }
+
+ .item-3, .item-6{
+    /*  width: 150px;
+     height: 150px; */
+     background-color: green;
+     text-align: end;
+     font-size: 24px;
+     font-weight: bolder;
+ }
