@@ -85,3 +85,10 @@ min-content y max-content
 
 ![](assets/image_1657837873781_0.png)
 ## Práctica 8: Proyecto
+
+![](assets/2022-07-14_23h27_31.png)
+
+### Mobile
+![](assets/2022-07-14_23h32_22.png)
+![](assets/2022-07-14_23h33_58.png)
+![](assets/2022-07-14_23h35_46.png)
